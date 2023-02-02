@@ -5,5 +5,5 @@
 # For the specific application to a spherical potential well in quantum mechanics, another form called spherical bessel functions appears.
 
 references:
-http://hyperphysics.phy-astr.gsu.edu/hbase/Math/bessel.html#c2
-http://hyperphysics.phy-astr.gsu.edu/hbase/Math/bessel.html
+1. http://hyperphysics.phy-astr.gsu.edu/hbase/Math/bessel.html#c2
+2. http://hyperphysics.phy-astr.gsu.edu/hbase/Math/bessel.html
